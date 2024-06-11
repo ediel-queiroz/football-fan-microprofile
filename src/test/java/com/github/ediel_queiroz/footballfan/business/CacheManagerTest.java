@@ -1,7 +1,5 @@
-package com.github.ediel_queiroz.footballfan;
+package com.github.ediel_queiroz.footballfan.business;
 
-import com.github.ediel_queiroz.footballfan.business.Match;
-import com.github.ediel_queiroz.footballfan.business.SimpleCacheManager;
 import com.github.javafaker.Faker;
 import org.assertj.core.api.SoftAssertions;
 import org.junit.jupiter.api.BeforeEach;
